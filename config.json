@@ -1,0 +1,6 @@
+{
+    "clientId":"YOUR CLIENT ID",
+    "guildId":"YOUR GUILD ID",
+    "token":"YOUR TOKEN",
+    "apikey": "YOUR RIOT GAMES API KEY"
+}
